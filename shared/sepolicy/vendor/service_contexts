@@ -9,5 +9,7 @@ gce                                       u:object_r:gce_service:s0
 # WLC
 vendor.google.wireless_charger.IWirelessCharger/default                      u:object_r:hal_wireless_charger_service:s0
 
+vendor.hardware.carsenze.ICarsenze/default          u:object_r:carsenze_service:s0
+
 # google_battery
 vendor.google.google_battery.IGoogleBattery/default                          u:object_r:hal_googlebattery_service:s0
